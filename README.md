@@ -5,4 +5,4 @@ Course page: http://cs109.github.io/2015/index.html
 
 Ipynb folds: http://nbviewer.ipython.org/github/cs109/2014/tree/master/
 
-Cheat sheet: https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M
+Python Cheat sheet: https://drive.google.com/folderview?id=0ByIrJAE4KMTtaGhRcXkxNHhmY2M
