@@ -1,5 +1,5 @@
 # CS109-Harvard
-Stuff for CS109, Havard
+Homework and project code for CS109, Havard
 
 Course page: http://cs109.github.io/2015/index.html
 
